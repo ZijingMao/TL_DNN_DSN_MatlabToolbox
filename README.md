@@ -10,6 +10,6 @@ Used in the paper:
 
 A Deep Learning method for Classification of images RSVP events with EEG data
 
-CLASSIFICATION OF NON-TIME-LOCKED RAPID SERIAL VISUAL PRESENTATION EVENTS FOR BRAIN-COMPUTER INTERACTION USING DEEP LEARNING
+Classification of Non-time-locked Rapic Serial Visual Presentation Events for Brain Computer Interface Using Deep Learning
 
 Predicting Serial Visual Presentation Events from EEG Signals Using Deep Learning
